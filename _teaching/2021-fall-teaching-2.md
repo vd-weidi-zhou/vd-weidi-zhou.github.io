@@ -8,8 +8,4 @@ date: 2021-09-01
 location: "Beijing"
 ---
 
-Advanced Macroeconomics 1(a)
-
-2021 Fall
-
-2022 Fall
+2020 Fall, 2021 Fall
