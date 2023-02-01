@@ -8,4 +8,6 @@ date: 2021-09-01
 location: "Beijing"
 ---
 
+This is a Ph.D. compulsory course for first-year students, focusing on the dynamic programming method and complete-asset-market general equilibrium.
+
 2020 Fall, 2021 Fall
