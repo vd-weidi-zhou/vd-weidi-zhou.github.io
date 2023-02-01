@@ -1,4 +1,13 @@
-## About
+---
+permalink: /
+title: "About"
+excerpt: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 
 I am currently a Ph.D. student at the School of Economics and Management, Tsinghua University.
 
