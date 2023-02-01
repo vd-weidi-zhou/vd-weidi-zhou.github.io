@@ -8,14 +8,6 @@ date: 2023-02-01
 location: "Beijing"
 ---
 
-Monetary and Banking Economics
-
-2020 Spring
-
-2021 Spring
-
-2022 Spring
-
-2023 Spring
+2020 Spring, 2021 Spring, 2022 Spring, 2023 Spring
 
 
