@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /ta/
+author_profile: true
+redirect_from:
+  - /ta
+---
+
 ### Monetary and Banking Economics 
 *School of Economics and Management, Tsinghua University* | 2020, 2021, 2022, 2023
 
