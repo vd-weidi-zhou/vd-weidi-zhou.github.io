@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching Assistant"
+title: "Teaching Assistantship"
 permalink: /ta/
 author_profile: true
 redirect_from:
