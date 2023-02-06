@@ -19,8 +19,8 @@ Before the Ph.D. career, I studied Economics and Finance at the School of Econom
 
 *Know Thyself.*
 
-*Nothing in excess.*
+*Nothing overmuch.*
 
 *A pledge, then ruin.*
 
-*--- Temple of Apollo, Delphi*
+&ensp;&ensp;*--- Temple of Apollo, Delphi*
