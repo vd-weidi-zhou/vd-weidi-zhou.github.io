@@ -17,7 +17,7 @@ This is an undergraduate compulsory course for third-year students, focusing on 
 ### International Finance
 *School of Economics and Management, Tsinghua University* | 2021, 2022
 
-This is a elective course for Master of Finance students, focusing on the balance of payment, international capital flow, and exchange rate.
+This is an elective course for Master of Finance students, focusing on the balance of payment, international capital flow, and exchange rate.
 
 <br>
 
