@@ -12,6 +12,7 @@ redirect_from:
 + with Yao Hou, <a style="text-decoration:underline" href="https://huangjinglei.com">Jinglei Huang</a>, and Prof. <a style="text-decoration:underline" href="https://www.tsinghua.edu.cn/iesen/info/1021/1150.htm">Danxia Xie</a>, 2022
 
 + accepted by:
+    + The 2023 Asia Meeting of the Econometric Society, East and Southeast Asia, Singapore
     + The 98th Annual Conference of the Western Economic Association, 2023
     + The 22th China Economics Annual Conference, 2022
 
