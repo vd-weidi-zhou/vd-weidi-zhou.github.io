@@ -22,6 +22,9 @@ redirect_from:
 
 <br>
 
-### <u>Striving Like China</u>
+### <u>FDI, Pecuniary Externality, and Multiple Equilibria</u>
 
 + with Prof. <a style="text-decoration:underline" href="https://www.sem.tsinghua.edu.cn/en/info/1233/7141.htm">Qing Liu</a> and Prof. <a style="text-decoration:underline" href="https://luowenlan.weebly.com">Wenlan Luo</a>, 2023
+
++ accepted by:
+    + The 2023 Macroeconomic Workshop of CUHK-Tsinghua Joint Research Center for Chinese Economy
