@@ -9,7 +9,7 @@ redirect_from:
 
 ### <u>The Limits to Growth in the Data Economy: How Data Storage Constraint Threats</u> <font size=4>[<a href="https://ssrn.com/abstract=4099544">SSRN #4099544</a>]</font>
 
-+ with <a style="text-decoration:underline" href="https://sites.google.com/view/yaohou/">Yao Hou</a>, <a style="text-decoration:underline" href="https://huangjinglei.wordpress.com">Jinglei Huang</a>, and Prof. <a style="text-decoration:underline" href="https://www.tsinghua.edu.cn/iesen/info/1021/1150.htm">Danxia Xie</a>, 2022
++ with <a style="text-decoration:underline" href="https://sites.google.com/view/yaohou">Yao Hou</a>, <a style="text-decoration:underline" href="https://huangjinglei.wordpress.com">Jinglei Huang</a>, and Prof. <a style="text-decoration:underline" href="https://www.tsinghua.edu.cn/iesen/info/1021/1150.htm">Danxia Xie</a>, 2022
 
 + accepted by:
     + The 2023 Asia Meeting of the Econometric Society, East and Southeast Asia, Singapore
