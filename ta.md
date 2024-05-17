@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Monetary and Banking Economics 
-*School of Economics and Management, Tsinghua University* | 2020, 2021, 2022, 2023
+*School of Economics and Management, Tsinghua University* | 2020, 2021, 2022, 2023, 2024
 
 This is an undergraduate compulsory course for third-year students, focusing on the money and banking system and their integration into the macroeconomics.
 
