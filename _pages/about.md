@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. student at the School of Economics and Management, Tsinghua University.
+I am currently a lecturer of the Department of Economics, the Chinese University of Hong Kong.
 
 My current research interest focuses on the open macroeconomics, especially the transitional growth patterns of emerging market economies in the open-economy scenario.
 
-Before the Ph.D. career, I studied Economics and Finance at the School of Economics and Management, Tsinghua University.
+Before the career, I received Ph.D. in Economics from the School of Economics and Management, Tsinghua University.
 
 <br>
 
